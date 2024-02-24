@@ -1,0 +1,92 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+}
+
+.active {
+    text-decoration: none;
+}
+
+.blog-form {
+    margin-top: 50px;
+    border: solid;
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: gray;
+
+}
+
+.title-form {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.username {
+    margin-top: 50px;
+    text-align: center;
+    color: grey;
+}
+
+textarea {
+    height: 150px;
+    width: 300px;
+}
+
+body {
+    background:linear-gradient( blanchedalmond, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.userslist {
+    margin-top: 30px;
+    width: 500px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.routes {
+    margin-top: 20px;
+}
+
+.blogslist {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 500px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px outset;
+    padding: 10px;
+
+}
+
+.blogstitle {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.blogsauthor {
+    text-align: right;
+}
+
+.like {
+    margin-top: 5px;
+}
+
+
